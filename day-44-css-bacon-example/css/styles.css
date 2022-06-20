@@ -1,0 +1,47 @@
+/************************ TAG SELECTORS ************************/
+h1 {
+    color: red;
+    font-size: 200px;
+}
+
+/* pseudoclass example (denoted by colon) */
+img:hover {
+    background-color: gold;
+}
+
+
+/************************ CLASS SELECTORS ************************/
+
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+
+/************************ ID SELECTORS ************************/
+
+#heading {
+    color: blue
+}
+
+
+/*
+CLASSes VS IDs
+- ID can only have a single instance -- a unique item!
+- CLASS can be used on multiple items and used to group similar elements
+- elements can have multiple CLASSes but only one ID
+- ID selectors override CLASS selectors which override TAG selectors which override DEFAULT
+
+INLINE, INTERNAL, EXTERNAL CSS
+INLINE overrides INTERNAL which overrides EXTERNAL which overrides DEFAULT
+
+PSEUDOCLASSES
+
+*/
