@@ -1,0 +1,29 @@
+Flask Quickstart
+- Refresher: Day 35 environment vars
+- Ensure Command Prompt is the terminal type, not Local (unless virtual env)
+- Ctrl+C quits the app
+
+Command Line
+- pwd = print working directory (shows path)
+- ls = list all files and folders in current directory
+- cd = change directory ("cd .." takes you to parent folder)
+- mkdir = make a new directory
+- touch filename.ext = make a new file called filename with the extension .ext
+- rm filename.ext = delete the file named filename.ext
+- rm -rf FolderName = delete a folder "r" recursively and "f" forcibly
+
+Command Prompt Cheat Sheet: http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf
+
+__name__ concept
+if __name__ == "__main__":
+    app.run()
+
+
+Python Decorators:
+- function that gives additional functionality to an existing function
+- function has a wrapper function inside that does something and calls the existing function
+- @decorator_name is an example of "sugar syntax"...?
+
+Flask debugger mode:
+- automatic reloader - reloads server when saved
+- enables debug on flask application
