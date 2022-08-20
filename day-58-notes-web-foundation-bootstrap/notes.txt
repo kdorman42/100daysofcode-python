@@ -1,0 +1,28 @@
+Codeply for bootstrap responsive column sizing: https://www.codeply.com/p/gGAW4KgOrL
+
+https://www.awwwards.com/websites/com/
+https://ui-patterns.com/patterns
+https://dribbble.com/search/website
+
+
+Media Queries
+
+@media <type> <feature>
+
+Example:
+
+@media print {
+    h1 {
+        color: red;
+    }
+}
+
+@media (min-width: 900px) {
+    ... make a change
+}
+
+screen-resolution or screen-size
+
+
+Device vs Browser vs Viewport
+Viewport is the visible are for viewing website

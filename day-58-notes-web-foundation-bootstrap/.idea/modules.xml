@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/day-58-notes-web-foundation-bootstrap.iml" filepath="$PROJECT_DIR$/.idea/day-58-notes-web-foundation-bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day-58-proj-tindog/.idea/day-58-proj-tindog.iml" filepath="$PROJECT_DIR$/../day-58-proj-tindog/.idea/day-58-proj-tindog.iml" />
+    </modules>
+  </component>
+</project>
